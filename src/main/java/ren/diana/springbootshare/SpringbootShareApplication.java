@@ -1,0 +1,12 @@
+package ren.diana.springbootshare;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SpringbootShareApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(SpringbootShareApplication.class, args);
+	}
+}
